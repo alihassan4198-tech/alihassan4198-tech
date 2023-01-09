@@ -27,28 +27,26 @@
 - 🏢 I'm currently working at **Upwork**
 - ⚙️ I use daily: `.py`, `.js`, `.ts`, `.sh`
 - 🌱 Learning all about **DevOps & Full Stack Development**
-- 💬 Ping me about **Node**, **React**, **React Native**, **Python**,  **Docker**, **RestAPIs**
-- 📫 Reach me: [linkedin.com/in/ubaidullah-manzoor/](https://www.linkedin.com/in/ubaidullah-manzoor/)
+- 💬 Ping me about **Node**, **React**, **React Native**, **GoLang**,  **Docker**, **Kubernetes**, **Helm**
+- 📫 Reach me: [linkedin.com/in/syed-ali-hassan-jaffery/](https://www.linkedin.com/in/syed-ali-hassan-jaffery/)
 - 📝 Checkout my [Resume](Resume.pdf).
 
 #### Development Stuffs:
 <b>⚡ Github Stats</b>
 <p float="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ubaidmanzoor987&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ubaidmanzoor987&show_icons=true&hide_border=true&layout=compact&langs_count=15"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alihassan4198-tech&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihassan4198-tech&show_icons=true&hide_border=true&layout=compact&langs_count=15"/>
 </p>
 
-![Languages](https://wakatime.com/share/@ubaidmanzoor987/94420ed9-0f35-4138-b57b-490c78441159.svg)
-
-![Languages](https://wakatime.com/share/@ubaidmanzoor987/18ae3c71-ae46-472d-96fa-62d4b9d48b19.svg)
+![Languages](https://wakatime.com/share/@a5c8f5bc-dadf-4b90-9d88-8f48a845cbd7/c0c5209d-e7c9-46eb-9442-7833fc26b224.svg)
 
 #### Connect With Me
 
 <p left="center">
-  <a href="https://www.linkedin.com/in/ubaidullah-manzoor/">
+  <a href="https://www.linkedin.com/in/syed-ali-hassan-jaffery/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
   </a> 
-  <a href="mailto:ubaidmanzoor987@gmail.com">
+  <a href="mailto:alihassan4198@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
   </a>
 </p>
