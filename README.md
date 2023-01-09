@@ -20,7 +20,7 @@
 </p>
 
 #### Now
-- :fire: Interested in DevOps and Cloud engineering and Full stack development
+- :fire: Interested in Security, DevOps, Cloud engineering and Full stack development.
 - :calendar: Looking for contributing to JavaScript, node based open source projects 
 
 #### Bio
