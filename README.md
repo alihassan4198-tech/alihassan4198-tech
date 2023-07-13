@@ -25,9 +25,9 @@
 
 #### Bio
 - 🏢 I'm currently working at **Upwork**
-- ⚙️ I use daily: `.py`, `.js`, `.ts`, `.sh`
+- ⚙️ I use daily: `.py`, `.go`, `.js`, `.ts`, `.sh`
 - 🌱 Learning all about **DevOps & Full Stack Development**
-- 💬 Ping me about **Node**, **React**, **React Native**, **GoLang**,  **Docker**, **Kubernetes**, **Helm**
+- 💬 Ping me about **Node**, **React**, **React Native**, **GoLang**, **Python**,  **Docker**, **Kubernetes**, **Helm**
 - 📫 Reach me: [linkedin.com/in/syed-ali-hassan-jaffery/](https://www.linkedin.com/in/syed-ali-hassan-jaffery/)
 - 📝 Checkout my [Resume](Resume.pdf).
 
