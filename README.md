@@ -21,7 +21,7 @@
 
 #### Now
 - :fire: Interested in Security, DevOps, Cloud engineering and Full stack development.
-- :calendar: Looking for contributing to JavaScript, node based open source projects 
+- :calendar: Looking for contributing to JavaScript, NodeJS, Security, DevOps, Cloud engineering based open source projects 
 
 #### Bio
 - 🏢 I'm currently working at **Upwork**
