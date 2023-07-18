@@ -28,10 +28,8 @@
 - ⚙️ I use daily: `.py`, `.go`, `.js`, `.ts`, `.sh`
 - 🌱 Learning all about **DevOps & Full Stack Development**
 - 💬 Ping me about **Node**, **React**, **React Native**, **GoLang**, **Python**,  **Docker**, **Kubernetes**, **Helm**, **AWS (Lambdas, CloudFront, EKS, EC2, ECS, S3 and many more...)**
-<!-- 
 - 📫 Reach me: [linkedin.com/in/syed-ali-hassan-jaffery/](https://www.linkedin.com/in/syed-ali-hassan-jaffery/)
 - 📝 Checkout my [Resume](Resume.pdf).
--->
 
 #### Development Stuffs:
 <b>⚡ Github Stats</b>
@@ -43,7 +41,7 @@
 ![Languages](https://wakatime.com/share/@a5c8f5bc-dadf-4b90-9d88-8f48a845cbd7/5848908e-02c6-4525-acff-cc546782de8d.svg)
 ![Operating-Systems](https://wakatime.com/share/@a5c8f5bc-dadf-4b90-9d88-8f48a845cbd7/4c7b793c-2e67-4377-b7da-a6df08d65f28.svg)
 
-<!-- #### Connect With Me
+#### Connect With Me
 
 <p left="center">
   <a href="https://www.linkedin.com/in/syed-ali-hassan-jaffery/">
@@ -52,4 +50,4 @@
   <a href="mailto:alihassan4198@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
   </a>
-</p> -->
+</p>
