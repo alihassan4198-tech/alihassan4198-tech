@@ -1,9 +1,9 @@
 ## Hi 👋, I'm a Software and DevOps Engineer working in Lahore, Punjab, Pakistan
 
 <p align="left">
-  <a href="https://leetcode.com/alihassan4198/">
+<!--   <a href="https://leetcode.com/alihassan4198/">
     <img src="https://cp-logo.vercel.app/leetcode/alihassan4198" alt="Leet code rating" />
-  </a>
+  </a> -->
   <a href="https://www.hackerrank.com/alihassan4198">
     <img src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg" alt="Leet code rating" />
   </a>
