@@ -1,4 +1,4 @@
-## Hi 👋, I'm a Software and DevOps Engineer working in Lahore, Punjab, Pakistan
+## Hi 👋, I'm a Software and DevOps Engineer working in Punjab, Pakistan
 
 <p align="left">
 <!--   <a href="https://leetcode.com/alihassan4198/">
@@ -28,7 +28,6 @@
 - ⚙️ I use daily: `.py`, `.go`, `.js`, `.ts`, `.sh`
 - 🌱 Learning all about **DevOps & Full Stack Development**
 - 💬 Ping me about **Node**, **React**, **React Native**, **GoLang**, **Python**,  **Docker**, **Kubernetes**, **Helm**, **AWS (Lambdas, CloudFront, EKS, EC2, ECS, S3 and many more...)**
-- 📝 Checkout my [Resume](Resume.pdf).
 
 #### Development Stuffs:
 <b>⚡ Github Stats</b>
