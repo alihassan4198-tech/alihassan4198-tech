@@ -30,11 +30,6 @@
 - 💬 Ping me about **Node**, **React**, **React Native**, **GoLang**, **Python**,  **Docker**, **Kubernetes**, **Helm**, **AWS (Lambdas, CloudFront, EKS, EC2, ECS, S3 and many more...)**
 - 📝 Checkout my [Resume](Resume.pdf).
 
-#### Development Stuffs:
-<b>⚡ Github Stats</b>
-<p float="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihassan4198-tech&show_icons=true&hide_border=true&layout=compact&langs_count=15"/>
-</p> 
 
 ![Languages](https://wakatime.com/share/@a5c8f5bc-dadf-4b90-9d88-8f48a845cbd7/5848908e-02c6-4525-acff-cc546782de8d.svg)
 ![Operating-Systems](https://wakatime.com/share/@a5c8f5bc-dadf-4b90-9d88-8f48a845cbd7/4c7b793c-2e67-4377-b7da-a6df08d65f28.svg)
