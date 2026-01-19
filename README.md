@@ -28,7 +28,7 @@
 - ⚙️ I use daily: `.py`, `.go`, `.js`, `.ts`, `.sh`
 - 🌱 Learning all about **DevOps & Full Stack Development**
 - 💬 Ping me about **Node**, **React**, **React Native**, **GoLang**, **Python**,  **Docker**, **Kubernetes**, **Helm**, **AWS (Lambdas, CloudFront, EKS, EC2, ECS, S3 and many more...)**
-- 📝 Checkout my [Resume](Ali_Hassan.pdf).
+- 📝 Checkout my [Resume](./Ali_Hassan.pdf).
 
 
 ![Languages](https://wakatime.com/share/@a5c8f5bc-dadf-4b90-9d88-8f48a845cbd7/5848908e-02c6-4525-acff-cc546782de8d.svg)
